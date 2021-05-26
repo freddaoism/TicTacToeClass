@@ -26,6 +26,7 @@ class Main {
         String p1 = in.nextLine();
         System.out.print("Player 2, what is your name? ");
         String p2 = in.nextLine();
+        System.out.println("WELCOME TO THE THUNDERDOME!!!");
 
 
         //Create a player1 boolean that is true if it is player 1's turn and false if it is player 2's turn
